@@ -1,0 +1,14 @@
+@import "./colors.scss";
+@import "./font-family.scss";
+@import "./mixins.scss";
+@import "./variables.scss";
+
+// Global
+
+head,
+body,
+html {
+  font-size: 1rem;
+  color: $black;
+  margin: 0;
+}
