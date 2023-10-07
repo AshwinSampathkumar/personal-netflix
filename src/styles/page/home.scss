@@ -1,0 +1,7 @@
+@import '../global.scss';
+
+.container-main-page {
+  background-color: var(--bg-theme);
+  display: flex;
+  flex-direction: column; 
+}
